@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -31,11 +31,11 @@ Hello, thanks for stopping by!
 
 I am currently pursuing my Ph.D. at the Chinese Unviersity of Hong Kong, advised by Prof.[Hong Cheng](https://www.se.cuhk.edu.hk/people/academic-staff/prof-cheng-hong/) since 2023. Before that, I received my B.S in Applied Mathematics from Sun Yat-sen University and M.S in Pattern Recognition and Intelligence System from Sun Yat-sen University, advised by Prof.[Xiaodan Liang](https://www.sysu-hcp.net/faculty/xiaodanliang.html)
 
-**Research**: My current research focuses on multi-modal reasoning models, efficient multi-modal large language Models. Particularly I'm interested in applying reinforcement learning to improve the reasoning capbility of LLMs
+**Research**: My current research focuses on multi-modal reasoning models, efficient multi-modal large language Models. Particularly I'm interested in applying reinforcement learning to improve the reasoning capbility of LLMs。 
 My final goal is towards data-efficient and computation-efficient multi-modal large language models.
 
 **Feel free to reach out if you are interested in my research or would like to discuss potential collaborations!**
-You can contact me via [email](centaurus923@gmail.com) or [wechat](Centaurus_alpha)
+You can contact me via email(centaurus923@gmail.com) or wechat(Centaurus_alpha)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
